@@ -1,8 +1,5 @@
 # code.cults
 
-> We don’t just write code.  
-> We practice it.
-
 A collective of engineers crafting tools, systems, and experimental stacks with obsessive precision.
 
 ## What We Build
