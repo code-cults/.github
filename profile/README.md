@@ -1,6 +1,6 @@
 # code.cults
 
-A collective of engineers crafting tools, systems, and experimental stacks with obsessive precision.
+A collective of undergrads exploring, learning and crafting tools, systems, and experimental stacks with obsessive precision.
 
 ## What We Build
 
